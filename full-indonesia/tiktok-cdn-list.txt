@@ -1,0 +1,4 @@
+tiktok.com
+p16-tiktokcdn.com
+sf6-ttcdn-tos.pstatp.com
+103.240.0.0/14

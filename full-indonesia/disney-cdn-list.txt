@@ -1,0 +1,4 @@
+disneyplus.com
+disneyplus.net
+52.119.192.0/18
+13.224.0.0/14

@@ -1,0 +1,8 @@
+netflix.com
+nflxvideo.net
+nflximg.net
+nflxso.net
+23.246.0.0/18
+45.57.0.0/17
+52.89.124.0/24
+52.88.0.0/14

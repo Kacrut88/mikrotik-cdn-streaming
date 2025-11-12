@@ -1,0 +1,7 @@
+hbo.com
+hbomax.com
+max.com
+akamaized.net
+fastly.net
+23.223.32.0/20
+199.232.0.0/16

@@ -1,0 +1,7 @@
+youtube.com
+ytimg.com
+googlevideo.com
+googleusercontent.com
+142.250.0.0/15
+142.251.0.0/16
+216.58.192.0/19
