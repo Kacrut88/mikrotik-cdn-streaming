@@ -1,0 +1,11 @@
+iptv.biznetnetworks.com
+stream.biznetnetworks.com
+cdn.biznetvideo.net
+video.biznet.net.id
+live.biznetnetworks.com
+ott.biznetnetworks.com
+103.58.102.0/24
+103.58.103.0/24
+103.58.104.0/22
+27.123.24.0/21
+103.252.200.0/22
