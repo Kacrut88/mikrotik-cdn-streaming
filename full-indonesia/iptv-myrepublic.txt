@@ -1,0 +1,9 @@
+tv.myrepublic.co.id
+stream.myrepublic.co.id
+iptv.myrepublic.co.id
+vod.myrepublic.co.id
+cdn.myrepublictv.id
+203.189.88.0/22
+203.189.92.0/22
+103.82.240.0/22
+103.82.244.0/22
